@@ -1,0 +1,1 @@
+from InstaUserInfo.instauserinfo import InstaUserInfo
