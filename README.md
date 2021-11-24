@@ -9,7 +9,7 @@ Developed by Samurai Coder (c) 2021
 Get User FullName As Example
 
 ```python
-from instauserinfo import InstaUserInfo
+from InstaUserInfo import InstaUserInfo
 
 fullname = InstaUserInfo(user).FullName()
 ```
